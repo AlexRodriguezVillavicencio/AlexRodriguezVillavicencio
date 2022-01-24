@@ -1,2 +1,2 @@
-    Hey there ,
-Blockchain | FullStack Engineer 
+    Hey there 
+Blockchain | FullStack Developer
