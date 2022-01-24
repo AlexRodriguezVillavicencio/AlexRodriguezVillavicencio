@@ -1,2 +1,9 @@
     Hey there 
-Blockchain | FullStack Developer
+FullStack Developer
+
+
+
+
+🧑 About me:
+
+I am working 
