@@ -1,6 +1,4 @@
-    Hey there 
-
-Data Engineer
+# Data Engineer | Data Science
 
 
 ### 🛠️ **_Tech Stack:_**
