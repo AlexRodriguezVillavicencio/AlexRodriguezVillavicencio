@@ -1,18 +1,5 @@
 # Data Engineer | Data Science
 
-- 💬 En esta página podrán encontrar todos mis proyectos de Data Science.
-- 💼 Entre ellos, se incluyen trabajos realizados en Henry y proyectos personales
-- 📫 Contactame **arodriguezv@uni.pe**
-
-📚 HENRY :
-
-1) Proyecto final realizado grupalmente, con la colaboracion de Cristina Zamorano, Jhon Lirion, Geronimo Gippener y Alex Rodriguez,sobre la emisión de CO2 y la contaminación que genera al medio ambiente. Usamos las tecnologías: Python, SQL, Django, streamlit, pandas, plotly entre otras. 
-Desarrollar ingeniería de datos (como se obtienen y transforman los datos), datawarehouse y machine learning para realizar predicciones sobre métricas en particular.
-Analizamos los datasets brindados y recopilamos de otras fuentes, para poder realizar un análisis, identificando las problemáticas.
-
-**https://mapa-emisiones-production-9db6.up.railway.app**
-
-<h3 align="left">Languages and Tools:</h3>
 ### 🛠️ **_Tech Stack:_**
 <br>
 
