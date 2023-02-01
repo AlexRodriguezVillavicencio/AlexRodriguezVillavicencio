@@ -9,18 +9,12 @@
 
 
 <img src="https://img.shields.io/badge/Python-909090?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-<img src="https://img.shields.io/badge/4%20years-acb334?style=for-the-badge" alt="4 years" />
-<br/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-<img src="https://img.shields.io/badge/3%20years-acb334?style=for-the-badge" alt="3 years" />
-<br/>
 <img src="https://img.shields.io/badge/Rust-800000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/badge/Learning-ff0d0d?style=for-the-badge" alt="Learning" />
-<br/>
 
 </p>
 
-### 🛠️ **_Tech Stack:_**
+### 🛠️ Tech Stack:
 
 <!-- TODO
 - [] Center images changing from markdown to html
