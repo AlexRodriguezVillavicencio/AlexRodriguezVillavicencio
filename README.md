@@ -23,22 +23,22 @@
 - ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 - Area Backend:
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=222222&logo=django&logoColor=ffffff)
+- ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=222222&logo=django&logoColor=ffffff)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
+- Area Data | Machine Learning:
+- ![Pandas](https://img.shields.io/badge/-Pandas-764ABC?style=for-the-badge&labelColor=222222&logo=Pandas&logoColor=ffffff) 
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=222222&logo=mysql&logoColor=white) 
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Pandas  Badge](https://img.shields.io/badge/-Pandas-764ABC?style=for-the-badge&labelColor=222222&logo=Pandas&logoColor=ffffff) 
-![Docker Badge](https://img.shields.io/badge/-Docker-61DBFB?style=for-the-badge&labelColor=222222&logo=Docker&logoColor=61BFB) 
-![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=222222&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Shell Badge](https://img.shields.io/badge/Shell_Script-1111111?style=for-the-badge&labelColor=222222&logo=gnu-bash&logoColor=1111111) 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- extra tools:
+- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+- ![Shell](https://img.shields.io/badge/Shell_Script-1111111?style=for-the-badge&labelColor=222222&logo=gnu-bash&logoColor=1111111) 
+- ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
+- ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Stats
 
