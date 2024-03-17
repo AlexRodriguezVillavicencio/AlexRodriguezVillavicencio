@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Python-909090?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/java-17%2B-yellowgreen?stlye=flat&logo=Java" alt="Java">
 
 </p>
 
@@ -22,6 +22,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 - Area Backend:
 
