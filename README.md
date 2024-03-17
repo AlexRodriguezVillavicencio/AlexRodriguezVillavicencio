@@ -26,7 +26,7 @@
 - Area Backend:
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=222222&logo=django&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
@@ -37,6 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - extra tools:
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Shell](https://img.shields.io/badge/Shell_Script-1111111?style=for-the-badge&labelColor=222222&logo=gnu-bash&logoColor=1111111) 
